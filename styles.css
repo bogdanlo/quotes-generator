@@ -1,0 +1,40 @@
+body {
+    background-color: paleturquoise;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+button {
+    font-size: 34px;
+    background-color: darksalmon;
+    font-weight: bold;
+    border-color: black;
+    border-radius: 12px;
+}
+
+a {
+    font-size: 32px;
+    border: 2px solid black;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    padding: 3px;
+}
+#container {
+    background-color: lightgray;
+}
+#movie {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+}
